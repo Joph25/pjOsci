@@ -6,7 +6,7 @@
 #print(inst.query("*IDN?"))
 
 for i in range(7):
-	print i
-
+	print( i)
 for j in range (10):
-	print "j is:"+str(j)
+	print("j is:"+str(j))
+    

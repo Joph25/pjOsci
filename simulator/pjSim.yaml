@@ -20,7 +20,7 @@ devices:
     error: ERROR
     dialogues:
       - q: "?IDN"
-        r: "LSG Serial #1234"
+        r: "pjOsci Simulator V.17.01.06"
       - q: "!CAL"
         r: OK
     properties:

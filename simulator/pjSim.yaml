@@ -20,7 +20,7 @@ devices:
     error: ERROR
     dialogues:
       - q: "?IDN"
-        r: "LSG Serial #1234"
+        r: "pjSimulator 1"
       - q: "!CAL"
         r: OK
     properties:
